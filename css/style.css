@@ -186,3 +186,19 @@ footer {
         min-width: 160px;
     }
 }
+
+.btn-download {
+    display: inline-block;
+    margin-top: 10px;
+    padding: 8px 18px;
+    background-color: #C1E8FF;
+    color: #021024;
+    text-decoration: none;
+    border-radius: 20px;
+    font-weight: bold;
+    transition: 0.3s;
+}
+
+.btn-download:hover {
+    background-color: #7DA0CA;
+}
